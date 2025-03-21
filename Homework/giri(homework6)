@@ -1,0 +1,4 @@
+.data
+inBuf:	.byte	0:80
+
+.text
